@@ -1,0 +1,28 @@
+{
+  "name": "sitestat-example",
+  "version": "1.0.0",
+  "description": "Example usage of Sitestat",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thejimi/Sitestat.git"
+  },
+  "keywords": [
+    "sitestat",
+    "example",
+    "test",
+    "express.js"
+  ],
+  "author": "thejimi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thejimi/Sitestat/issues"
+  },
+  "homepage": "https://github.com/thejimi/Sitestat#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
