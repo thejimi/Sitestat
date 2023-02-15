@@ -1,0 +1,27 @@
+{
+  "name": "sitestat",
+  "version": "0.0.1",
+  "description": "NPM package for Express servers, to easily save your website's statistics.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thejimi/Sitestat.git"
+  },
+  "keywords": [
+    "statistics",
+    "stats",
+    "express",
+    "monitor",
+    "data",
+    "database"
+  ],
+  "author": "thejimi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thejimi/Sitestat/issues"
+  },
+  "homepage": "https://github.com/thejimi/Sitestat#readme"
+}
